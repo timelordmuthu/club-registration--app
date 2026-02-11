@@ -17,9 +17,9 @@ Secure Admin Control: A private dashboard to view all registered students.
 🔐 Admin Access
 To access the Admin Panel, click the lock icon and enter:
 
-Admin Name: MUTHU
+Admin Name: ADMIN
 
-Passcode: MUTHU
+Passcode: ADMIN
 
 🛠️ Tech Stack
 Framework: Flutter
